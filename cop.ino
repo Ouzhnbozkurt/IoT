@@ -25,7 +25,7 @@ const char* WLAN_PASSWORD = "12345678"; // "Kablosuz Ağ Şifresi"
 #define SMTP_server "smtp.gmail.com"
 #define SMTP_PORT 465  
 #define AUTHOR_EMAIL "ouzhnbozkurt@gmail.com" //göndericinin emaili
-#define AUTHOR_PASSWORD "yiek jljs rplj vppa" //göndericinin şifresi : kakashi_21
+#define AUTHOR_PASSWORD "yiek jljs rplj vppa" //göndericinin şifresi 
 #define RECIPIENT_EMAIL "oguzhan.bozkurt3@ogr.sakarya.edu.tr" //alıcı mail adresi
  
 SMTPSession smtp; 
